@@ -3,12 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-HappyLearning
-=============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: 英语
+   :name: sec-english
+
+   english/primary/index
+   english/juniorhigh/index
+   english/seniorhigh/index
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 数学
+   :name: sec-maths
+
+   maths/maths
 
 
 
