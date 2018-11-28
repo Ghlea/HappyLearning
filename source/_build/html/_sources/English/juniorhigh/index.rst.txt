@@ -1,12 +1,12 @@
 初中英语
 =======
 
-短语汇总
+句子汇总
 -------
 
 .. toctree::
    :maxdepth: 1
-   :name: sec-expressions
+   :name: sec-sentences
 
    grade_7_1/index
    grade_7_2/index

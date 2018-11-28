@@ -3,8 +3,8 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 短语汇总
-   :name: sec-expressions
+   :caption: 句子汇总
+   :name: sec-sentences
 
    starter
    module_1
