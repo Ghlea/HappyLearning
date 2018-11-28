@@ -4,94 +4,50 @@
 句子总汇
 --------
 
-**My name's** Miss Zhou. [#]_
-
-**I'm** Mrs Li. [#]_
-
-Good morning **Mr Chen**. [#]_
-
-Hello, **class**. [#]_
-
-**What's your name**, please? [#]_
-
-**Your name**, please? [#]_
-
-**Sorry**? [#]_
-
-**This is** Lingling. [#]_
-
-Nice **to meet you**. [#]_
-
-**It's time to** go now. [#]_
-
-Bye. **See you** tomorrow. [#]_
-
-**put up** your hand [#]_
-
-Are you **a new student here**? [#]_
-
-What class are you **in**? [#]_
-
-**Once** I caught **a fish alive**. [#]_
-
-Then I **let it go** again. [#]_
-
-**What's** your telephone number? [#]_
-
-**It's** seven nine one, four five six. [#]_
-
-Eleven **and** five **is** sixteen. [#]_
-
-What's this **in English**? [#]_
-
-**Write** it **on** the blackboard, please. [#]_
-
-**Write** it **in** the book. [#]_
-
-**How do** you spell "pencil" [#]_
-
-A pencil? [#]_
-
-Can you say **that** again, please? [#]_
-
-Thank you. [#]_
-
-**You're welcome**. [#]_
-
-**Can you** help me, please? [#]_
-
-Yes, **of course**. [#]_
-
-**What colour** is it? [#]_
-
-What colour is **the flower**? [#]_
-
-**It's** red, **yellow and pink**. [#]_
-
-**What day is it** today? [#]_
-
-**It's** Sunday. [#]_
-
-What day is **your favourite day**? [#]_
-
-My **everyday life**. [#]_
-
-**What's the weather like **in London in autumn? [#]_
-
-**It's** cool. [#]_
-
-What's your favourite sport, Daming? [#]_
-
-Football. [#]_
-
-**Let's** play football **after school**. [#]_
-
-OK. **Good idea!** [#]_
-
-I **like swimming** too. [#]_
-
-Let's go swimming **on Wednesday**. [#]_
-
+- **My name's** Miss Zhou. [#]_
+- **I'm** Mrs Li. [#]_
+- Good morning **Mr Chen**. [#]_
+- Hello, **class**. [#]_
+- **What's your name**, please? [#]_
+- **Your name**, please? [#]_
+- **Sorry**? [#]_
+- **This is** Lingling. [#]_
+- Nice **to meet you**. [#]_
+- **It's time to** go now. [#]_
+- Bye. **See you** tomorrow. [#]_
+- **put up** your hand [#]_
+- Are you **a new student here**? [#]_
+- What class are you **in**? [#]_
+- **Once** I caught **a fish alive**. [#]_
+- Then I **let it go** again. [#]_
+- **What's** your telephone number? [#]_
+- **It's** seven nine one, four five six. [#]_
+- Eleven **and** five **is** sixteen. [#]_
+- What's this **in English**? [#]_
+- **Write** it **on** the blackboard, please. [#]_
+- **Write** it **in** the book. [#]_
+- **How do** you spell "pencil" [#]_
+- A pencil? [#]_
+- Can you say **that** again, please? [#]_
+- Thank you. [#]_
+- **You're welcome**. [#]_
+- **Can you** help me, please? [#]_
+- Yes, **of course**. [#]_
+- **What colour** is it? [#]_
+- What colour is **the flower**? [#]_
+- **It's** red, **yellow and pink**. [#]_
+- **What day is it** today? [#]_
+- **It's** Sunday. [#]_
+- What day is **your favourite day**? [#]_
+- My **everyday life**. [#]_
+- **What's the weather like** in London in autumn? [#]_
+- **It's** cool. [#]_
+- What's your favourite sport, Daming? [#]_
+- Football. [#]_
+- **Let's** play football **after school**. [#]_
+- OK. **Good idea!** [#]_
+- I **like swimming** too. [#]_
+- Let's go swimming **on Wednesday**. [#]_
 
 
 .. rubric:: 参考译文
