@@ -12,21 +12,19 @@
 
 [#]_ **Listening** and vocabulary
 
-[#]_ Listen and check（√） **the number of speakers**.
+[#]_ Listen and check（√） the number **of** speakers.
 
-[#]_ **listen again** and check（√） **the words you hear**.
+[#]_ listen **again** and check（√） **the words you hear**.
 
 [#]_ I'm **Chinese**. / I'm **from China**.
 
-[#]_ I **am from** Wuhan.
+[#]_ **Where are** you **from**?
 
-[#]_ Where are you **from**?
-
-[#]_ How **old** are you?
+[#]_ **How old** are you?
 
 [#]_ **I'm** thirteen (years old).
 
-[#]_ **What about** you
+[#]_ **What about** you?
 
 [#]_ I'm from Beijing **too**.
 
@@ -38,7 +36,7 @@
 
 [#]_ Now **check（√）** the **true** sentences.
 
-[#]_ Tony **is not in** Class 4.
+[#]_ Tony is **not** in Class 4.
 
 [#]_ Work **in pairs**. Choose **the correct** answer.
 
@@ -161,7 +159,6 @@
 .. [#] 听一听，给说话人的个数打勾（√）。
 .. [#] 再听一遍，然后给你听的的单词打勾（√）。
 .. [#] 我是中国人。（我是中国的）
-.. [#] 我来自武汉。(我是武汉人）
 .. [#] 你是哪里人？
 .. [#] 你多大了？
 .. [#] 我十三岁。
