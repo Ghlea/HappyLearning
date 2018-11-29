@@ -4,149 +4,149 @@
 单词、短语、句子
 ---------------
 
-[#]_ my **classmates**
+my **classmates** [#]_ 
 
-[#]_ **module** task
+**module** task [#]_ 
 
-[#]_ **Introducing** yourself **to** your new friends。
+**Introducing** yourself **to** your new friends。 [#]_ 
 
-[#]_ **Listening** and vocabulary
+**Listening** and vocabulary [#]_ 
 
-[#]_ Listen and check（√） the number **of** speakers.
+Listen and check（√） the number **of** speakers. [#]_ 
 
-[#]_ listen **again** and check（√） **the words you hear**.
+listen **again** and check（√） **the words you hear**. [#]_ 
 
-[#]_ I'm **Chinese**. / I'm **from China**.
+I'm **Chinese**. / I'm **from China**. [#]_ 
 
-[#]_ **Where are** you **from**?
+**Where are** you **from**? [#]_ 
 
-[#]_ **How old** are you?
+**How old** are you? [#]_ 
 
-[#]_ **I'm** thirteen (years old).
+**I'm** thirteen (years old). [#]_ 
 
-[#]_ **What about** you?
+**What about** you? [#]_ 
 
-[#]_ I'm from Beijing **too**.
+I'm from Beijing **too**. [#]_ 
 
-[#]_ Are you **from America**? / Are you **American**?
+Are you **from America**? / Are you **American**? [#]_ 
 
-[#]_ No, I'm **not**.
+No, I'm **not**. [#]_ 
 
-[#]_ Tony and Betty **are** our **friends**.
+Tony and Betty **are** our **friends**. [#]_ 
 
-[#]_ Now **check（√）** the **true** sentences.
+Now **check（√）** the **true** sentences. [#]_ 
 
-[#]_ Tony is **not** in Class 4.
+Tony is **not** in Class 4. [#]_ 
 
-[#]_ Work **in pairs**. Choose **the correct** answer.
+Work **in pairs**. Choose **the correct** answer. [#]_ 
 
-[#]_ Is Betty **English**? / Is Betty **from England**?
+Is Betty **English**? / Is Betty **from England**? [#]_ 
 
-[#]_ **Complete** the passage **with** the correct form **of** the words **from** the box.
+**Complete** the passage **with** the correct form **of** the words **from** the box. [#]_ 
 
-[#]_ Pronunciation **and** speaking
+Pronunciation **and** speaking [#]_ 
 
-[#]_ Listen **and** repeat.
+Listen **and** repeat. [#]_ 
 
-[#]_ Ask **and** answer.
+Ask **and** answer. [#]_ 
 
-[#]_ Reading **and** vocabulary
+Reading **and** vocabulary [#]_ 
 
-[#]_ Put the sentences **in the correct order**.
+Put the sentences **in the correct order**. [#]_ 
 
-[#]_ Read **the** passage.
+Read **the** passage. [#]_ 
 
-[#]_ Hello, **everyone**.
+Hello, **everyone**. [#]_ 
 
-[#]_ Beijing is the capital **of** China.
+Beijing is the capital **of** China. [#]_ 
 
-[#]_ **Good/Nice/Glad/Pleased** to **meet/see** you.
+**Good/Nice/Glad/Pleased** to **meet/see** you. [#]_ 
 
-[#]_ Shanghai is a **very big** city.
+Shanghai is a **very big** city. [#]_ 
 
-[#]_ It's a small city **in** England.
+It's a small city **in** England. [#]_ 
 
-[#]_ Tony is my **first/given name** and Smith is my **last/family name**.
+Tony is my **first/given name** and Smith is my **last/family name**. [#]_ 
 
-[#]_ **It's** nice **to** see **you all**.
+**It's** nice **to** see **you all**. [#]_ 
 
-[#]_ Now correct the **false** sentences.
+Now correct the **false** sentences. [#]_ 
 
-[#]_ **Underline** the correct words.
+**Underline** the correct words. [#]_ 
 
-[#]_ in **Class 4**, **Mr Chen's** class.
+in **Class 4**, **Mr Chen's** class. [#]_ 
 
-[#]_ **Complete** the table.
+**Complete** the table. [#]_ 
 
-[#]_ **What's** her name?
+**What's** her name? [#]_ 
 
-[#]_ How old **is he**?
+How old **is he**? [#]_ 
 
-[#]_ Where **is he** from?
+Where **is he** from? [#]_ 
 
-[#]_ **Writing**
+**Writing** [#]_ 
 
-[#]_ **Look at** the pictures and write sentences.
+**Look at** the pictures and write sentences. [#]_ 
 
-[#]_ Write sentences **about** yourself.
+Write sentences **about** yourself. [#]_ 
 
-[#]_ **Join** the sentences **in** Activity 6 **with** and.
+**Join** the sentences **in** Activity 6 **with** and. [#]_ 
 
-[#]_ Language **in use**
+Language **in use** [#]_ 
 
-[#]_ Language **practice**
+Language **practice** [#]_ 
 
-[#]_ Introduce **the three** people to **your class**.
+Introduce **the three** people to **your class**. [#]_ 
 
-[#]_ Look at the pictures **in** Activity 1.
+Look at the pictures **in** Activity 1. [#]_ 
 
-[#]_ Complete the **conversation**.
+Complete the **conversation**. [#]_ 
 
-[#]_ **Around the world**
+**Around the world** [#]_ 
 
-[#]_ **In** Chinese, the family name **is first** and the given name **is last**.
+**In** Chinese, the family name **is first** and the given name **is last**. [#]_ 
 
-[#]_ Ask and answer questions **about** a friend.
+Ask and answer questions **about** a friend. [#]_ 
 
-[#]_ He's a **Beijinger**.
+He's a **Beijinger**. [#]_ 
 
-[#]_ **Welcome to** Class 4 Grade 7!
+**Welcome to** Class 4 Grade 7! [#]_ 
 
-[#]_ Welcome **to China**!
+Welcome **to China**! [#]_ 
 
-[#]_ Welcome **to my home**.
+Welcome **to my home**. [#]_ 
 
-[#]_ Welcome **home**!
+Welcome **home**! [#]_ 
 
-[#]_ Welcome **back**!
+Welcome **back**! [#]_ 
 
-[#]_ The capital of **Guangdong Province** is Guangzhou.
+The capital of **Guangdong Province** is Guangzhou. [#]_ 
 
-[#]_ I'm very **well**.
+I'm very **well**. [#]_ 
 
-[#]_ **Is it** cheap?
+**Is it** cheap? [#]_ 
 
-[#]_ Are you a **good** boy?
+Are you a **good** boy? [#]_ 
 
-[#]_ I'm very **happy**.
+I'm very **happy**. [#]_ 
 
-[#]_ He's very **kind**.
+He's very **kind**. [#]_ 
 
-[#]_ The fruit is very **fresh**.
+The fruit is very **fresh**. [#]_ 
 
-[#]_ He's a very **clever** boy.
+He's a very **clever** boy. [#]_ 
  
-[#]_ The book is **on** the desk.
+The book is **on** the desk. [#]_ 
 
-[#]_ She **is at home**.
+She **is at home**. [#]_ 
 
-[#]_ Class is **over**.
+Class is **over**. [#]_ 
 
-[#]_ We are **off** now. Thanks **for** **the meal**!
+We are **off** now. Thanks **for** **the meal**! [#]_ 
 
-[#]_ He is **away to** the office.
+He is **away to** the office. [#]_ 
 
-[#]_ **Ms**
+**Ms** [#]_ 
 
 
 
