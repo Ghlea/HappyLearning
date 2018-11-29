@@ -26,7 +26,7 @@
 - What's this **in English**? [#]_
 - **Write** it **on** the blackboard, please. [#]_
 - **Write** it **in** the book. [#]_
-- **How do** you spell "pencil" [#]_
+- **How do** you spell "pencil"? [#]_
 - A pencil? [#]_
 - Can you say **that** again, please? [#]_
 - Thank you. [#]_
